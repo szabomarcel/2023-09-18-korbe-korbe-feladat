@@ -1,0 +1,13 @@
+html{
+    background-color: sandybrown;
+}
+img{
+    height: 100px;
+    width: auto;
+}
+button{
+    font-family:verdana,tahoma,arial;
+	font-size:12px;
+	text-align:center;
+	vertical-align:middle;
+}
