@@ -38,8 +38,11 @@ function korbe(){
             }
             break;
     }
+    console.log(en,ok);
+    csiga.style.left = parseInt(en).toString() + "px";
+    csiga.style.top = parseInt(ok).toString() + "px";
 }
-
+setInterval(korbe, 10000);
 /*if(teknos > magassag){        
     teknos.style.position = 'absolute';
     teknos.style.top = y += 1000;            
