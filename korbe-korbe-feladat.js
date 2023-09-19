@@ -42,6 +42,10 @@ function korbe(){
 
 /*if(teknos > magassag){        
     teknos.style.position = 'absolute';
+    teknos.style.top = y += 1000;            
+}
+if(teknos > magassag){        
+    teknos.style.position = 'absolute';
     teknos.style.top = y -= 1000;            
 }
 if(teknos < szelesseg){        
